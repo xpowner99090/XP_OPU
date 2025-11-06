@@ -2,23 +2,40 @@
 
 I'm Amine Hamzaoui, a 2nd-year Computer Science student and Frontend Developer passionate about AI and Machine Learning. I enjoy building interactive web projects and exploring intelligent solutions.
 
-
 💡 *“Crafting logic and elegance in every line of code.”*
 
 ---
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
+### 📬 Connect with Me  
 
-### 📬 Connect with Me
+<p align="center">
+  <a href="mailto:aminehamzaoui1926@gmail.com">
+    <img src="https://img.shields.io/badge/-aminehamzaoui1926@gmail.com-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" />
+  </a>
+  <a href="https://www.instagram.com/a__m.i.n__e?igsh=MWY0M3hmMXd0OGxqNw==">
+    <img src="https://img.shields.io/badge/-@a__m.i.n__e-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-amine-hamzaoui-a2453a35b">
+    <img src="https://img.shields.io/badge/-Mohamed%20Amine%20Hamzaoui-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB" />
+  </a>
+  <a href="https://www.facebook.com/share/1EZqQrtBKf/">
+    <img src="https://img.shields.io/badge/-Amine%20Hamzaoui-091519?style=for-the-badge&logo=facebook&logoColor=61DAFB" />
+  </a>
+  <a href="https://discord.com/users/805123459566010417">
+    <img src="https://img.shields.io/badge/-Sabo-091519?style=for-the-badge&logo=discord&logoColor=61DAFB" />
+  </a>
+</p>
 
-[![Mail Badge](https://img.shields.io/badge/-aminehamzaoui1926@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](#)
-[![Instagram Badge](https://img.shields.io/badge/-@a__m.i.n__e-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://www.instagram.com/a__m.i.n__e?igsh=MWY0M3hmMXd0OGxqNw==)
-[![Linkedin Badge](https://img.shields.io/badge/-Mohamed%20Amine%20Hamzaoui-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-amine-hamzaoui-a2453a35b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Facebook Badge](https://img.shields.io/badge/-Amine%20Hamzaoui-0a66c2?style=flat&labelColor=0a66c2&logo=facebook&logoColor=white)](https://www.facebook.com/share/1EZqQrtBKf/)
-[![Discord Badge](https://img.shields.io/badge/-Sabo-5865f2?style=flat&labelColor=5865f2&logo=discord&logoColor=white)](https://discord.com/users/805123459566010417)
-[![](https://komarev.com/ghpvc/?username=Saboo24&color=blue&label=Profile%20Views)](https://github.com/Saboo24)
-[![](https://img.shields.io/github/followers/Saboo24?label=GitHub%20Followers)](https://github.com/Saboo24)
+<p align="center">
+  <a href="https://github.com/Saboo24">
+    <img src="https://komarev.com/ghpvc/?username=Saboo24&color=3a8296&label=Profile%20Views" />
+  </a>
+  <a href="https://github.com/Saboo24">
+    <img src="https://img.shields.io/github/followers/Saboo24?label=GitHub%20Followers&color=3a8296&style=flat" />
+  </a>
+</p>
 
 ---
 
@@ -42,6 +59,8 @@ I'm Amine Hamzaoui, a 2nd-year Computer Science student and Frontend Developer p
 
 ### 📊 GitHub Statistics
 
+<img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saboo24&theme=react&show_icons=true&hide_border=false)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Saboo24&theme=react&hide_border=false&currStreakNum=61DAFB&sideLabels=61DAFB&currStreakLabel=61DAFB)
@@ -52,9 +71,7 @@ I'm Amine Hamzaoui, a 2nd-year Computer Science student and Frontend Developer p
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saboo24&layout=compact&langs_count=8&theme=react&hide_border=false&custom_title=Most%20Used%20Languages&include_orgs=true)
 
-
 ---
-
 
 ## 🏆 Top Contributed Repo
 
@@ -65,3 +82,7 @@ I'm Amine Hamzaoui, a 2nd-year Computer Science student and Frontend Developer p
 <p align="center">
   <i>“Code is where creativity meets logic.”</i> ✨
 </p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=120&section=footer&text=Thanks%20for%20Visiting%20👋🏻&fontSize=25&fontColor=61DAFB&animation=twinkling" />
